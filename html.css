@@ -1,0 +1,40 @@
+span {
+    color: #83B4FF;
+    font-weight: bold;
+    font-size: 35px;
+}
+i {
+    color:#83B4FF;
+}
+.title {
+    font-weight: 500;
+}
+.arrow {
+    animation: title 1s infinite ease;
+    color:#83B4FF;
+}
+@keyframes title {
+    0% {
+        transform: translateX(40px);
+    }
+
+    100% {
+        transform: translateX(0px); 
+      }
+}
+body , html{
+    background: url(./black.jpg);
+    animation: title1 2s 1 ease;
+    color:#FDFFE2;
+}
+@keyframes title1 {
+    0% {
+        transform: translateX(-100%) scale(2);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0px) scale(1);
+        opacity: 1;
+    }
+}
