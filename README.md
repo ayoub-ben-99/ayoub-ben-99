@@ -1,5 +1,6 @@
 <h2 align="center">  Hello World 👋, I'm Ayoub</h2>  
-<h2> a full-stack developer and graphic designer <img src="./arrow-right-line.svg" width="20px"/></h2>  
+
+<h2> a full-stack developer 👨‍💻 and graphic designer 🌠 <img src="./arrow-right-line.svg" width="20px"/></h2>  
 
 ###
 
