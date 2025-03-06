@@ -1,4 +1,5 @@
-<h1>  Hello World I'm Ayoub  <br> a full-stack developer and graphic designer <img src="./arrow-right-line.svg" width="20px"/> </h1>
+<h2 align="center">  Hello World 👋, I'm Ayoub</h2>  
+<h2> a full-stack developer and graphic designer <img src="./arrow-right-line.svg" width="20px"/></h2>  
 
 ###
 
