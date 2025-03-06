@@ -42,4 +42,4 @@
 
 ---
 
-### 🚀 **"Passionate about coding and creating amazing digital experiences!"**
+### 🚀 **Passionate about coding and creating amazing digital experiences!**
