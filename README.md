@@ -2,7 +2,15 @@
   <img src="./cover2.jpeg" style="max-width:100%;" alt="cover">
 </h1>
 
+---
+
+<br>
+
 <h1 align="center">💻 Full-Stack Developer & 🎨 Graphic Designer</h1>
+
+<br>
+
+---
 
 <p align="center">
   <img src="./download.gif" style="max-width: 80%;" alt="GIF">
