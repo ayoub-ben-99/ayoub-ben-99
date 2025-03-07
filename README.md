@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  <img src="./cover2.jpeg" style="max-width: 100%;" alt="cover">
+  <img src="./cover1.jpeg" style="max-width: 100%;" alt="cover">
 </p>
