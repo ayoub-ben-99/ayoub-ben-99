@@ -8,24 +8,24 @@
 
 <h1 align="center">💻 Full-Stack Developer & 🎨 Graphic Designer</h1>
 
-<br>
+<br> 
 
 ---
 
 <p align="center">
-  <img src="./download.gif" style="max-width: 80%;" alt="GIF">
+  <img src="./d.gif" style="max-width: 80%;" alt="GIF">
 </p>
 
 ---
 
-## 🔹 Socials <img src="./arrow-right-line.svg" width="20px"/>
+## - Socials <img src="./arrow-right-line.svg" width="20px"/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_code0)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayoubsen557@gmail.com)
 
 ---
 
-## 🔹 Tech Stack <img src="./arrow-right-line.svg" width="20px"/>
+## - Tech Stack <img src="./arrow-right-line.svg" width="20px"/>
 
 ### **🌐 Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
