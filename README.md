@@ -1,22 +1,13 @@
 <h1 align="center">
   <img src="./cover2.jpeg" style="max-width:100%;" alt="cover">
 </h1>
-
----
-
 <br>
 
 <h1 align="center">💻 Full-Stack Developer & 🎨 Graphic Designer</h1>
-
 <br> 
-
----
-
 <p align="center">
-  <img src="./d.gif" style="max-width: 80%;" alt="GIF">
+  <img src="./d.gif" style="max-width: 70%;" alt="GIF">
 </p>
-
----
 
 ## - Socials <img src="./arrow-right-line.svg" width="20px"/>
 
