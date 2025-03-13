@@ -5,9 +5,6 @@
 
 <h1 align="center">💻 Full-Stack Developer & 🎨 Graphic Designer</h1>
 <br> 
-<p align="center">
-  <img src="./d.gif" style="max-width: 70%;" alt="GIF">
-</p>
 
 ## - Socials <img src="./arrow-right-line.svg" width="20px"/>
 
