@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./cover2.jpeg" style="max-width:100%;" alt="cover">
+  <img src="./cover2.gif" style="max-width:100%;" alt="cover">
 </h1>
 <br>
 
@@ -40,9 +40,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-<p align="center">
-  <img src="./cover1.jpeg" style="max-width: 100%;" alt="cover">
-</p>
