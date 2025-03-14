@@ -3,7 +3,9 @@
 </h1>
 <br>
 
-<h1 align="center">💻 Full-Stack Developer & 🎨 Graphic Designer</h1>
+<p align="center">
+  <img src="./skill.jpeg" style="max-width:100%;" alt="my skill">
+</p>
 <br> 
 
 ## - Socials <img src="./arrow-right-line.svg" width="20px"/>
