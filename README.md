@@ -2,89 +2,85 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./cover-dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./cover-light.gif">
-    <img src="./cover-light.gif" alt="Cover Image" class="rounded-lg shadow-lg">
+    <img src="./cover-light.gif" alt="غلاف" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </picture>
 </h1>
 
 <p align="center">
-  <img src="./skill.gif" alt="Skills" class="w-full md:w-3/4 lg:w-1/2 mx-auto">
-</p>
-
-## - Socials
-
-<p align="center">
-  <a href="https://instagram.com/a_code0" class="btn btn-primary mx-2">Instagram</a>
-  <a href="mailto:ayoubsen557@gmail.com" class="btn btn-danger mx-2">Email</a>
+  <img src="./skill.gif" alt="مهاراتي" width="600" style="border-radius: 10px;">
 </p>
 
 ---
 
-## - Tech Stack
-
-### **🌐 Frontend**
-<p align="center">
-  <span class="badge bg-orange-500 text-white">HTML5</span>
-  <span class="badge bg-blue-500 text-white">CSS3</span>
-  <span class="badge bg-yellow-500 text-white">JavaScript</span>
-  <span class="badge bg-blue-600 text-white">React</span>
-  <span class="badge bg-black text-white">Next.js</span>
-  <span class="badge bg-teal-500 text-white">TailwindCSS</span>
-  <span class="badge bg-purple-600 text-white">Bootstrap</span>
-</p>
-
-### **🛠 Backend & Database**
-<p align="center">
-  <span class="badge bg-green-600 text-white">Node.js</span>
-  <span class="badge bg-gray-700 text-white">Express.js</span>
-  <span class="badge bg-green-700 text-white">MongoDB</span>
-  <span class="badge bg-black text-white">JWT</span>
-</p>
-
-### **🎨 Design & Tools**
-<p align="center">
-  <span class="badge bg-orange-600 text-white">Adobe Illustrator</span>
-  <span class="badge bg-blue-600 text-white">Adobe Photoshop</span>
-  <span class="badge bg-teal-600 text-white">Canva</span>
-</p>
-
-### **🔧 DevOps & Utilities**
-<p align="center">
-  <span class="badge bg-orange-700 text-white">Git</span>
-  <span class="badge bg-blue-700 text-white">GitHub Actions</span>
-  <span class="badge bg-orange-500 text-white">Postman</span>
-</p>
+## 🚀 About Me  
+💻 مطور ويب مهتم بتطوير الواجهات الأمامية والخلفية، وأحب بناء مشاريع احترافية بتقنيات حديثة.  
+🎨 لدي خبرة في تصميم الواجهات وتطوير تجربة المستخدم.  
+📧 تواصل معي عبر البريد الإلكتروني أو وسائل التواصل الاجتماعي أدناه.  
 
 ---
 
-## - Projects
+## 🌍 Socials  
 
-### **Project 1: [Project Name]**
-A brief description of the project and its objectives.
-
-### **Project 2: [Project Name]**
-A brief description of the project and its objectives.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/a_code0)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubsen557@gmail.com)  
 
 ---
 
-## - Certifications
+## 🛠 Tech Stack  
 
-- **Certification 1:** [Certification Name]
-- **Certification 2:** [Certification Name]
+### 🌐 **Frontend**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+### ⚙️ **Backend & Database**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
+
+### 🎨 **Design & Tools**  
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+
+### 🔧 **DevOps & Utilities**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
 
-## - Blogs
+## 🔥 Featured Projects  
 
-- [Blog Title 1](#)
-- [Blog Title 2](#)
-
----
-
-## - Other Interests
-
-- **Artificial Intelligence & Machine Learning:** Exploring the latest technologies and applications.
-- **Augmented & Virtual Reality:** Developing interactive and immersive experiences.
+### **🎭 AR/VR Projects**  
+[![مشروع AR](./ar-project.gif)](https://example.com/ar-project)  
+[![مشروع VR](./vr-project.gif)](https://example.com/vr-project)  
 
 ---
 
-*Note: This README is designed to be responsive and works seamlessly across all devices, with dark mode support for a comfortable reading experience.*
+## 📜 Certifications  
+[![JavaScript Certification](https://img.shields.io/badge/Certified-JavaScript-blue?style=for-the-badge&logo=javascript)](https://example.com/certification)  
+[![React Certification](https://img.shields.io/badge/Certified-React-blue?style=for-the-badge&logo=react)](https://example.com/certification)  
+
+---
+
+## 🎯 Goals & Vision  
+🚀 طموحي هو إنشاء تطبيقات ويب متطورة تجمع بين الأداء العالي والتصميم الجذاب، مع التركيز على تجربة المستخدم الفريدة.  
+
+---
+
+## 🤝 Contributing  
+مرحبًا بالمساهمات في مشاريعي! يمكنك فتح **Issue** أو تقديم **Pull Request** وسأكون سعيدًا بمراجعتها.  
+
+---
+
+## 📩 Contact Me  
+📧 [ayoubsen557@gmail.com](mailto:ayoubsen557@gmail.com)  
+🌍 [Instagram](https://instagram.com/a_code0)  
+
+---
