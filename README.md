@@ -1,43 +1,90 @@
 <h1 align="center">
-  <img src="./cover2.gif" style="max-width:100%;" alt="cover">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./cover-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./cover-light.gif">
+    <img src="./cover-light.gif" alt="Cover Image" class="rounded-lg shadow-lg">
+  </picture>
 </h1>
-<br>
 
 <p align="center">
-  <img src="./skill.jpeg" style="max-width:100%;" alt="my skill">
+  <img src="./skill.gif" alt="Skills" class="w-full md:w-3/4 lg:w-1/2 mx-auto">
 </p>
-<br> 
 
-## - Socials <img src="./arrow-right-line.svg" width="20px"/>
+## - Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_code0)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayoubsen557@gmail.com)
+<p align="center">
+  <a href="https://instagram.com/a_code0" class="btn btn-primary mx-2">Instagram</a>
+  <a href="mailto:ayoubsen557@gmail.com" class="btn btn-danger mx-2">Email</a>
+</p>
 
 ---
 
-## - Tech Stack <img src="./arrow-right-line.svg" width="20px"/>
+## - Tech Stack
 
 ### **🌐 Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <span class="badge bg-orange-500 text-white">HTML5</span>
+  <span class="badge bg-blue-500 text-white">CSS3</span>
+  <span class="badge bg-yellow-500 text-white">JavaScript</span>
+  <span class="badge bg-blue-600 text-white">React</span>
+  <span class="badge bg-black text-white">Next.js</span>
+  <span class="badge bg-teal-500 text-white">TailwindCSS</span>
+  <span class="badge bg-purple-600 text-white">Bootstrap</span>
+</p>
 
 ### **🛠 Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<p align="center">
+  <span class="badge bg-green-600 text-white">Node.js</span>
+  <span class="badge bg-gray-700 text-white">Express.js</span>
+  <span class="badge bg-green-700 text-white">MongoDB</span>
+  <span class="badge bg-black text-white">JWT</span>
+</p>
 
 ### **🎨 Design & Tools**
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<p align="center">
+  <span class="badge bg-orange-600 text-white">Adobe Illustrator</span>
+  <span class="badge bg-blue-600 text-white">Adobe Photoshop</span>
+  <span class="badge bg-teal-600 text-white">Canva</span>
+</p>
 
 ### **🔧 DevOps & Utilities**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <span class="badge bg-orange-700 text-white">Git</span>
+  <span class="badge bg-blue-700 text-white">GitHub Actions</span>
+  <span class="badge bg-orange-500 text-white">Postman</span>
+</p>
+
+---
+
+## - Projects
+
+### **Project 1: [Project Name]**
+A brief description of the project and its objectives.
+
+### **Project 2: [Project Name]**
+A brief description of the project and its objectives.
+
+---
+
+## - Certifications
+
+- **Certification 1:** [Certification Name]
+- **Certification 2:** [Certification Name]
+
+---
+
+## - Blogs
+
+- [Blog Title 1](#)
+- [Blog Title 2](#)
+
+---
+
+## - Other Interests
+
+- **Artificial Intelligence & Machine Learning:** Exploring the latest technologies and applications.
+- **Augmented & Virtual Reality:** Developing interactive and immersive experiences.
+
+---
+
+*Note: This README is designed to be responsive and works seamlessly across all devices, with dark mode support for a comfortable reading experience.*
