@@ -41,4 +41,7 @@ Full-Stack Developer & Graphic Designer
   <a href="https://paypal.me/ayoubbenrkia9">
     <img src="https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
   </a>
+  <a href="https://ko-fi.com/ayoubben99">
+    <img src="https://img.shields.io/badge/-Ko%20Fi-FF5B2E?style=for-the-badge&logo=ko-fi&logoColor=white">
+  </a>
 </p>
