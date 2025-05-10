@@ -67,4 +67,10 @@ Full-Stack Developer & Graphic Designer
   <a href="https://ko-fi.com/ayoubben99">
     <img src="https://img.shields.io/badge/-Ko%20Fi-FF5B2E?style=for-the-badge&logo=ko-fi&logoColor=white">
   </a>
+  <a href="https://discord.a_code0">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/ayoub-benrkia">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
