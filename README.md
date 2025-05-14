@@ -60,6 +60,15 @@
 
 ---
 
+### 🌐 **Networking Knowledge**
+![TCP/IP](https://img.shields.io/badge/TCP/IP-%230072C6.svg?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-%233775A9.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-%23FF7139.svg?style=for-the-badge&logo=http&logoColor=white)
+![Linux Networking](https://img.shields.io/badge/Linux%20Networking-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-%230065B5.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
 ## 🤝 Support & Connect
 
 <p>
