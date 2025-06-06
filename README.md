@@ -30,7 +30,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GSAP](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg) 
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge) 
 
 ---
 
