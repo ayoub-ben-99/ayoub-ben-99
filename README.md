@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./cover2.gif">
     <source media="(prefers-color-scheme: light)" srcset="./cover2.gif">
     <img 
-      src="./cover2.gif" 
+      src="./Cover.gif" 
       alt="cover" 
       style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
     >
