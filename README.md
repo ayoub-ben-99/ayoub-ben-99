@@ -1,14 +1,10 @@
 <!-- Header Image -->
 <h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Cover.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Cover.gif">
     <img 
       src="./Cover.gif" 
       alt="cover" 
       style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
     >
-  </picture>
 </h1>
 
 <!-- Title -->
