@@ -1,8 +1,8 @@
 <!-- Header Image -->
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./cover2.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./cover2.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="./Cover.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Cover.gif">
     <img 
       src="./Cover.gif" 
       alt="cover" 
