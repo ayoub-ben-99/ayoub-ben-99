@@ -1,7 +1,7 @@
 <!-- Header Image -->
 <h1 align="center">
     <img 
-      src="cover.gif" 
+      src="cover.jpg" 
       alt="cover" 
     >
 </h1>
@@ -61,7 +61,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-%230065B5.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
-
 
 ## 🤝 Support & Connect
 
