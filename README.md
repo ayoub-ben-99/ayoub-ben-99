@@ -1,18 +1,10 @@
 <!-- Header Image -->
 <h1 align="center">
     <img 
-      src="./Cover.gif" 
+      src="cover.gif" 
       alt="cover" 
-      style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
     >
 </h1>
-
-<!-- Title -->
-<h1 align="center">
-  Full-Stack Developer & Graphic Designer
-</h1>
-
----
 
 ## 🚀 Tech Stack
 
@@ -27,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <a href="https://greensock.com/gsap/" target="_blank">
-  <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logoWidth=30&logo=https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="GSAP Badge" />
+<img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logoWidth=30&logo=https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="GSAP Badge" />
 </a>
 
 ---
@@ -61,6 +53,7 @@
 ---
 
 ### 🌐 **Networking Knowledge**
+
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-%230072C6.svg?style=for-the-badge&logo=internetexplorer&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-%233775A9.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-%23FF7139.svg?style=for-the-badge&logo=http&logoColor=white)
@@ -69,10 +62,6 @@
 
 ---
 
-## 🌐 My Personal Website
-
-🔗 **[Click here to visit my website ✨](https://a-code01.vercel.app/)**
----
 
 ## 🤝 Support & Connect
 
@@ -96,3 +85,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+## 🔗 **[Click here to visit my website ✨](https://a-code01.vercel.app/)**
