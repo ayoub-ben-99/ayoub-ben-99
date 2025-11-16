@@ -1,8 +1,8 @@
 <!-- Header Image -->
 <h1 align="center">
-    <img 
-      src="cover.jpg" 
-      alt="cover" 
+    <img
+      src="cover.png"
+      alt="cover"
     >
 </h1>
 
@@ -86,4 +86,13 @@
   </a>
 </p>
 
-## 🔗 **[Click here to visit my website ✨](https://a-code01.vercel.app/)**
+---
+
+<a href="https://a-code01.vercel.app/" target="_blank">
+<p align="center">
+    <img
+      src="click.png"
+      alt="cover"
+    >
+</p>
+</a>
