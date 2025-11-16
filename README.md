@@ -88,11 +88,11 @@
 
 ---
 
-<a href="https://a-code01.vercel.app/" target="_blank">
 <p align="center">
+<a href="https://a-code01.vercel.app/" target="_blank">
     <img
       src="click.png"
       alt="cover"
     >
-</p>
 </a>
+</p>
